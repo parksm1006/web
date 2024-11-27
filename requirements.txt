@@ -3,4 +3,4 @@ requests
 pandas
 matplotlib
 seaborn
-xml version=='1.0'
+xml==1.0
